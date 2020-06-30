@@ -33,35 +33,10 @@ export const fetchTaskList = () => {
                     },
                     3: {
                         id: 3,
-                        title: 'Use redux thunks to make an async call to get tasks',
+                        title: 'Update api calls to get tasks from graphql server',
                         complete: false
                     },
-                    4: {
-                        id: 4,
-                        title: 'Use react selectors',
-                        complete: false
-                    },
-                    5: {
-                        id: 5,
-                        title: 'Use html5 local storage',
-                        complete: false
-                    },
-                    6: {
-                        id: 6,
-                        title: 'Use scss',
-                        complete: false
-                    },
-                    7: {
-                        id: 7,
-                        title: 'Add \'Add task\' capability',
-                        complete: false
-                    },
-                    8: {
-                        id: 8,
-                        title: 'Use d3.js to draw a pie chart',
-                        complete: false
-                    }
-                }
+                };
             })
     };
 };
