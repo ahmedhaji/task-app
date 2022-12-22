@@ -44,7 +44,7 @@
     "node-sass": "^4.5.0",
     "react-addons-test-utils": "^15.4.2",
     "sass-loader": "^5.0.1",
-    "serverless-offline": "^6.4.0",
+    "serverless-offline": "^12.0.3",
     "style-loader": "^0.13.1"
   },
   "scripts": {
